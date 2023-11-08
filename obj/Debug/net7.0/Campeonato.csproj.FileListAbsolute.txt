@@ -1,0 +1,14 @@
+C:\Users\Selso Pacheco\lpo\Campeonato\bin\Debug\net7.0\Campeonato.exe
+C:\Users\Selso Pacheco\lpo\Campeonato\bin\Debug\net7.0\Campeonato.deps.json
+C:\Users\Selso Pacheco\lpo\Campeonato\bin\Debug\net7.0\Campeonato.runtimeconfig.json
+C:\Users\Selso Pacheco\lpo\Campeonato\bin\Debug\net7.0\Campeonato.dll
+C:\Users\Selso Pacheco\lpo\Campeonato\bin\Debug\net7.0\Campeonato.pdb
+C:\Users\Selso Pacheco\lpo\Campeonato\obj\Debug\net7.0\Campeonato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selso Pacheco\lpo\Campeonato\obj\Debug\net7.0\Campeonato.AssemblyInfoInputs.cache
+C:\Users\Selso Pacheco\lpo\Campeonato\obj\Debug\net7.0\Campeonato.AssemblyInfo.cs
+C:\Users\Selso Pacheco\lpo\Campeonato\obj\Debug\net7.0\Campeonato.csproj.CoreCompileInputs.cache
+C:\Users\Selso Pacheco\lpo\Campeonato\obj\Debug\net7.0\Campeonato.dll
+C:\Users\Selso Pacheco\lpo\Campeonato\obj\Debug\net7.0\refint\Campeonato.dll
+C:\Users\Selso Pacheco\lpo\Campeonato\obj\Debug\net7.0\Campeonato.pdb
+C:\Users\Selso Pacheco\lpo\Campeonato\obj\Debug\net7.0\Campeonato.genruntimeconfig.cache
+C:\Users\Selso Pacheco\lpo\Campeonato\obj\Debug\net7.0\ref\Campeonato.dll
